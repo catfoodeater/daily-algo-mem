@@ -1,13 +1,14 @@
-# binary search??? i guess???
+# my first (i think) implementation of binary search (its bad)
 # i will time how long it takes next time
-# errrrrrrrr
 
 import random
 import math
 
 def search(array, target):
-	index = math.floor((len(array)-1) / 2)
-	t = 0
+	if array[len(array) - 1] > target:
+		return -1
+
+	index = math.floor(len(array) / 2)
 
 	while array[index] != target:
 		if target > array[index]:
