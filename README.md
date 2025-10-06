@@ -6,3 +6,4 @@ i'm using [this](https://github.com/catfoodeater/random-choice) to pick what alg
 | Day | Algorithm |
 |---|---|
 | 1 | Binary search |
+| 2 | Bubble sort |
