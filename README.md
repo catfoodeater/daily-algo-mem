@@ -5,6 +5,6 @@ I'm using [this](https://github.com/catfoodeater/random-choice) to pick an algor
 
 | Day | Algorithm | Complete | Time |
 |---|---|---|---|
-| 1 | Binary search | ✅ | N/a |
+| 1 | Binary search | ✅ | ? |
 | 2 | Bubble sort | ✅ | <5m |
 | 3 | Merge sort | ✅ | >30m |
