@@ -1,7 +1,7 @@
 # daily-algo-mem
-going to be trying to implement algorithms once per day for some time to remember them better.
+Implementing a random algorithm everyday for 30 days to understand them better.
 
-i'm using [this](https://github.com/catfoodeater/random-choice) to pick what algorithm to implement.
+I'm using [this](https://github.com/catfoodeater/random-choice) to pick an algorithm.
 
 | Day | Algorithm | Complete | Time |
 |---|---|---|---|
